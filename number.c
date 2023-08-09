@@ -2,11 +2,11 @@
 
 int main(void){
 
-int a=200;
-int z=20;
-int c;
+int x=2000;
+int y=20;
+int z;
 
-c=a*b;
-printf("%d",c);
+z=x*y;
+printf("%d",z);
 
 }
