@@ -3,7 +3,7 @@
 int main(void){
 
 int a=200;
-int b=20;
+int z=20;
 int c;
 
 c=a*b;
